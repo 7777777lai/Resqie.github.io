@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "about"
-description: "达芬茄的百草园 " 
+description: "关于 " 
 header-img: "img/green.jpg"
 ---
 
