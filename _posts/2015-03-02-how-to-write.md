@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: Hi,Resqie
+date: 2019-3-11
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [肥宅,有趣]
+description: 在知识面前我屁都不是一个。
 ---
 
-这里是博客正文。
+test。
 
 
 
