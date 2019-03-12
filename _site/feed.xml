@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi,Resqie</title>
+    <title>Hi,Resqie!</title>
     <description>达芬茄的百草园</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Mar 2019 13:06:00 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2019 13:06:00 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2019 02:13:39 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2019 02:13:39 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>MarkDown语法学习+尝试</title>
+        <description>&lt;p&gt;MarkDown语法总结&lt;/p&gt;
+
+&lt;h1 id=&quot;a-first-level-header&quot;&gt;A First Level Header&lt;/h1&gt;
+&lt;p&gt;A Second Level Header
+———————&lt;/p&gt;
+
+&lt;p&gt;Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.&lt;/p&gt;
+
+&lt;p&gt;The quick brown fox jumped over the lazy
+dog’s back.&lt;/p&gt;
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+
+  &lt;p&gt;This is the second paragraph in the blockquote.&lt;/p&gt;
+
+  &lt;h2 id=&quot;this-is-an-h2-in-a-blockquote&quot;&gt;This is an H2 in a blockquote&lt;/h2&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2019/03/12/markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/12/markdown/</guid>
+        
+        <category>测试</category>
+        
+        <category>学习</category>
+        
+        <category>标记语言</category>
+        
+        <category>轻量化语言</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>最喜欢的人</title>
@@ -51,7 +92,7 @@
 15：30-16：30公布成绩
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;能拿奖的话以后时间就多很多了&amp;lt;/p&amp;gt;
+&lt;p&gt;能拿奖的话以后时间就多很多了
 之后就能迎来久违的两天假期(ﾉﾟ∀ﾟ)ﾉ&lt;/p&gt;
 
 </description>
