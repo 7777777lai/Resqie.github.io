@@ -5,33 +5,59 @@
     <description>达芬茄的百草园</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Mar 2019 02:13:39 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Mar 2019 02:13:39 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Mar 2019 00:47:22 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:47:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>MarkDown语法学习+尝试</title>
         <description>&lt;p&gt;MarkDown语法总结&lt;/p&gt;
 
-&lt;h1 id=&quot;a-first-level-header&quot;&gt;A First Level Header&lt;/h1&gt;
-&lt;p&gt;A Second Level Header
-———————&lt;/p&gt;
+&lt;p&gt;暂且不知如何在Jekyll里运用md的语法对文章进行排版，这文章先鸽了吧（以下是迫真测试&lt;/p&gt;
 
-&lt;p&gt;Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.&lt;/p&gt;
+&lt;p&gt;#一、标题&lt;/p&gt;
 
-&lt;p&gt;The quick brown fox jumped over the lazy
-dog’s back.&lt;/p&gt;
-&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#标题
+##二级标题
+###三级标题
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;p&gt;#二、字体&lt;/p&gt;
 
-  &lt;p&gt;This is the second paragraph in the blockquote.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;**加粗**
+*斜体*
+***斜体加粗***
+~~删除线~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-  &lt;h2 id=&quot;this-is-an-h2-in-a-blockquote&quot;&gt;This is an H2 in a blockquote&lt;/h2&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;#三、引用&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt;第一层引用
+&amp;gt;&amp;gt;第二层
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;第n层
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;#四、分割线&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;似乎是这样子 ---
+和这样子
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;#五、图片&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![这不是我](https://i.loli.net/2019/03/13/5c88517974535.jpeg &quot;真的不是&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;#六、超链接&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[互fo吗？](https://twitter.com/LeoResqie &quot;可以的话不是很想放出来&quot;）
+
+&amp;lt;a href=&quot;https://twitter.com/LeoResqie&quot; target=&quot;_blank&quot;&amp;gt;难道是这样子？？&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;#七、列表&lt;/p&gt;
+
+&lt;p&gt;等我上传测试一下&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/blog/2019/03/12/markdown/</link>
