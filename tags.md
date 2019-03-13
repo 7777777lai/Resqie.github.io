@@ -6,7 +6,7 @@ header-img: "img/semantic.jpg"
 ---
 
 
-##基因列表
+基因列表
 
 
 <div id='tag_cloud'>
