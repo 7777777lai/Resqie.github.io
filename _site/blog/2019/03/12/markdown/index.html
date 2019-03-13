@@ -130,53 +130,75 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
 
-                <p>MarkDown语法总结</p>
+                <h1 id="markdown语法总结">MarkDown语法总结</h1>
 
-<p>暂且不知如何在Jekyll里运用md的语法对文章进行排版，这文章先鸽了吧（以下是迫真测试</p>
+<blockquote>
+  <p>暂且不知如何在Jekyll里运用md的语法对文章进行排版，这文章先鸽了吧（以下是被废弃的测试<br />
+试图在readme中做测试，似乎也不行，很明显输入及输出<br />
+究竟如何使用markdown的语法我暂且蒙在蒙古包里<br /></p>
+</blockquote>
 
-<p>#一、标题</p>
+<p>更新，以上所述作废</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#标题
-##二级标题
-###三级标题
-</code></pre></div></div>
+<h4 id="一标题">一、标题</h4>
 
-<p>#二、字体</p>
+<h5 id="五级标题">五级标题</h5>
+<h6>六级标题</h6>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**加粗**
-*斜体*
-***斜体加粗***
-~~删除线~~
-</code></pre></div></div>
+<h4 id="二字体">二、字体</h4>
 
-<p>#三、引用</p>
+<p><strong>加粗</strong><br />
+<em>斜体</em><br />
+<strong><em>斜体并加粗</em></strong><br />
+<del>删除线</del><br /></p>
+<center>
+	<font color="#DC143C" size="2" face="微软雅黑">
+		微软雅黑大小为2的红色字并且居中
+	</font>
+</center>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;第一层引用
-&gt;&gt;第二层
-&gt;&gt;&gt;&gt;&gt;&gt;第n层
-</code></pre></div></div>
+<h4 id="三引用">三、引用</h4>
 
-<p>#四、分割线</p>
+<blockquote>
+  <p>第一层引用</p>
+  <blockquote>
+    <p>第二层</p>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <p>第n层</p>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>似乎是这样子 ---
-和这样子
-</code></pre></div></div>
+<h4 id="四分割线">四、分割线</h4>
 
-<p>#五、图片</p>
+<p>似乎是这样子<br /> 
+—————— <br />
+和这样子</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![这不是我](https://i.loli.net/2019/03/13/5c88517974535.jpeg "真的不是")
-</code></pre></div></div>
+<h4 id="五图片">五、图片</h4>
 
-<p>#六、超链接</p>
+<!--![我试试先](https://i.loli.net/2019/03/13/5c88517974535.jpeg "不是")
+-->
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[互fo吗？](https://twitter.com/LeoResqie "可以的话不是很想放出来"）
+<p><img src="https://i.loli.net/2019/03/13/5c88517974535.jpeg" width="30" height="30" alt="很明显这不是我" /></p>
 
-&lt;a href="https://twitter.com/LeoResqie" target="_blank"&gt;难道是这样子？？&lt;/a&gt;
-</code></pre></div></div>
+<h4 id="六超链接">六、超链接</h4>
 
-<p>#七、列表</p>
+<p><a href="https://twitter.com/LeoResqie" title="别点开">互fo吗?</a></p>
 
-<p>等我上传测试一下</p>
+<h4 id="七">七、</h4>
+
+<p>等我上传测试一下】</p>
+
+<p>别翻了没东西了</p>
+
+<p>咕咕咕？</p>
 
 
                 <hr>
@@ -208,12 +230,9 @@
                     data-images="http://localhost:4000/img/green.jpg"
                     data-content="MarkDown语法总结
 
-暂且不知如何在Jekyll里运用md的语法对文章进行排版，这文章先鸽了吧（以下是迫真测试
 
-#一、标题
-
-#标题
-##二级标题... | Microdust:Azeril's blog"
+  暂且不知如何在Jekyll里运用md的语法对文章进行排版，这文章先鸽了吧（以下是被废弃的测试
+试图在readme中做测试... | Microdust:Azeril's blog"
                     data-url="http://localhost:4000/blog/2019/03/12/markdown/">
                     <div class="ds-share-inline">
                       <ul  class="ds-share-icons-16">
