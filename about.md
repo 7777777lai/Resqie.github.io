@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚" 
+description: "直视自己糟糕的一面，努力变成理想的自己" 
 header-img: "img/green.jpg"
 ---
 #### 终身学习者
