@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "只有这么多了"
+description: "知之真切笃实处即是行,行之明觉精察处即是知"
 header-img: "img/orange.jpg"
 ---
 
