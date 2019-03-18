@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [授人予渔]数据恢复基础知识
+title: 授人予渔]数据恢复基础知识
 date: 2019-3-11
 categories: blog
 tags: [学习,数据恢复]
