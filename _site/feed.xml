@@ -5,8 +5,8 @@
     <description>达芬茄的百草园</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 14 Mar 2019 10:01:48 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2019 10:01:48 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Mar 2019 11:06:07 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 11:06:07 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -20,9 +20,12 @@
 
 &lt;h4 id=&quot;结果是&quot;&gt;结果是….&lt;/h4&gt;
 
-&lt;p&gt;当然比的很差&lt;br /&gt;
-不然直接报喜了…&lt;br /&gt;
-成绩还没出来的说，但也不抱有希望了&lt;/p&gt;
+&lt;h5 id=&quot;二等奖&quot;&gt;二等奖&lt;br /&gt;&lt;/h5&gt;
+&lt;p&gt;准确的说是&lt;br /&gt;
+二等奖广东省第九名&lt;br /&gt;
+在深圳市内第三名&lt;/p&gt;
+
+&lt;p&gt;这样以来就保送了啊，剩下两年就有时间学高数和英语了，等苟到毕业到大专再考专插本。（计划通&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
@@ -106,7 +109,7 @@
 
 &lt;h4 id=&quot;七&quot;&gt;七、&lt;/h4&gt;
 
-&lt;p&gt;等我上传测试一下&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;等我上传测试一下&lt;/del&gt;&lt;/p&gt;
 
 &lt;p&gt;咕咕咕？&lt;/p&gt;
 </description>
@@ -128,6 +131,24 @@
       </item>
     
       <item>
+        <title>授人予渔</title>
+        <description>&lt;p&gt;&lt;del&gt;想写一个数据恢复系列教材。&lt;/del&gt;&lt;br /&gt;
+等明年再说吧&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2019/03/11/shujvhuifu1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/11/shujvhuifu1/</guid>
+        
+        <category>学习</category>
+        
+        <category>数据恢复</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>最喜欢的人</title>
         <description>&lt;p&gt;最喜欢璇了。&lt;/p&gt;
 
@@ -137,53 +158,6 @@
         <guid isPermaLink="true">http://localhost:4000/blog/2019/03/11/mylove/</guid>
         
         <category>表白</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>距广东省职业院校技能大赛还有2天</title>
-        <description>&lt;p&gt;准确的说，不算2019年3月11日这天的话，已经只剩一天了。&lt;/p&gt;
-
-&lt;p&gt;十三号动身
-	7:00出发去东莞&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;15:00参赛队伍报道注册
-
-16:00选手熟悉赛场
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;十四号比赛
-	7:30选手到场&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;7:30-8:00检录入场
-
-8:00-8:30赛前准备
-
-11:30-12:00提交结果并离场
-
-12:30-14:30申诉与仲裁
-
-15：30-16：30公布成绩
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;能拿奖的话以后时间就多很多了
-之后就能迎来久违的两天假期(ﾉﾟ∀ﾟ)ﾉ&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2019/03/11/bisaiqian/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/11/bisaiqian/</guid>
-        
-        <category>倒计时</category>
-        
-        <category>比赛</category>
-        
-        <category>学习</category>
-        
-        <category>数据恢复</category>
         
         
         <category>blog</category>

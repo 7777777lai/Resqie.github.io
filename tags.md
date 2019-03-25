@@ -4,17 +4,18 @@ title: "Tags"
 description: "这里是文章基因库"  
 header-img: "img/semantic.jpg"  
 ---
+<br>
 
-### 基因列表
-
-
-
+## 基因列表
+<br>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
 <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
+
+<br>
 
 <ul class="listing">
 {% for tag in site.tags %}
@@ -27,7 +28,6 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 {% endfor %}
 </ul>
-
 <script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {

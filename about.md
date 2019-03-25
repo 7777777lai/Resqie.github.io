@@ -1,12 +1,16 @@
 ---
 layout: page
 title: "About"
-description: "直视自己糟糕的一面，努力变成理想的自己" 
+description: "是擅长无病呻吟的三校废物" 
 header-img: "img/green.jpg"
 ---
-#### 终身学习者
-坐标沿海的苦逼高中生<br>
 <br>
+## 人物属性
+
+<br>
+##### 底层 | 鸽子 | 话废 | 面瘫 | 学习者 | fps老年人 | r6s | <br>
+<br>
+<br>                                                                           
 [捕捉方式](https://t.me/Resqie "tg")
 
 
